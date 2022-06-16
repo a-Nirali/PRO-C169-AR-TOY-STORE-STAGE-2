@@ -25,7 +25,6 @@ AFRAME.registerComponent("markerhandler", {
         icon: "https://i.imgur.com/4NZ6uLY.jpg",
         title: "Thanks For Order !",
         text: "Your order will be served soon at your table!",
-        timer: 2000,
       });
     });
 
